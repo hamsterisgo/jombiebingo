@@ -1,5 +1,5 @@
 # jombiebingo
-If its in double quotes, he needs to say specific words.
+If it's in double quotes, he needs to say specific words.
 Single quotes just refers to general idea.
 
 If you use the below link instead of pdf,
