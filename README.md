@@ -2,6 +2,9 @@
 If its in double quotes, he needs to say specific words.
 Single quotes just refers to general idea.
 
+If you use the below link instead of pdf,
+then you can click squares to mark em.
+
 Generated using:
 https://osric.com/bingo-card-generator/?title=Jombie+Bingo&words=Forces+friend+off+Ledge%2CShoots+friend%2CGrenades+friend%2CGame+crashes%2CPhoto+Mode%2CAsks+chat+what+game+to+play%2CBrowses+steam+library%2CMixes+up+chatter%27s+name%2CEats+dinner+before+8pm+PST%2CMutes+mic%2CSleepy+Jombie%2CToilet%2Fpoop+humor%2Ftopic%2CLewd+joke%2C%22taco+bell%22%2C%22burger+king%22%2CStreams+past+2am+PST%2CStreams+before+3pm+PST%2C%22crayon+Eater%22%2CPlays+Canuck%27s+Song%2C%22Wooooo%21%22%2CDoes+a+voice%2CRoll+call%2CEats+on+Stream+%28mic+on%29%2CHums+a+tune%2CSings+a+line+of+song%2CShows+a+game+trailer+or+yt+gameplay%2CMentions+butt+touching%2CHand+jobs+%28claps%2Fslaps%2Fetc%29%2CStreaming+30min+after+%27ending+soon%27%2CNot+eating+30min+after+%27eating+soon%27%2CMentions+Pubg+%28outside+of+game%29%2CMentions+Destiny+%28outside+of+game%29%2Cputs+chatter+%27in+charge%27%2Ctalking+while+walking+away%2C%22listen%22%2C%22nice%22%2C%22what+am+I%22%2C%22I+don%27t+give+a+fuck%22%2Crepeats+a+word%2C%22stop+stealing+my+kills%22%2C%22worst+idea%22%2C%22i+have+an+idea%22%2C%22this+is+going+to+be+fun%22%2C%22eh%22%2Cinventory+menu+%3E30+seconds%2C%22sorry%22%2C%22pete%22%2Cjomexplains%2Cjomrant%2Ccurses+at+game%2Fdev%2Fcompany%2C%22if+i+do%22%2C%22what+do+you+want%22%2Cclicks+button+rapidly%2C%22that%27s+dumb%22%2C%22i+remember%22&freespace=true&freespaceValue=Jombie+Streams&freespaceSubheadingValue=&freespaceRandom=false&width=5&height=5&number=50#results
 Then i print to pdf using landscape orientation, foolscap paper type
